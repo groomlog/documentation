@@ -11,3 +11,4 @@ As a Software Engineer, code review/refactor is one of the most important aspect
 
 - [General Best Practices](https://github.com/groomlog/documentation/blob/main/best-practices.md)
 - [UI Best Practices](https://github.com/groomlog/documentation/blob/main/ui-best-practices.md)
+- [Laravel Best Practices](https://github.com/groomlog/documentation/blob/main/laravel-best-practices.md)
